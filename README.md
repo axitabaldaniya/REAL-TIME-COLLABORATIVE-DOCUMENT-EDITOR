@@ -47,4 +47,13 @@ Realtime via socket.io messages:
 - doc-change (client -> server) with { docId, content }
 - remote-change (server -> clients) with the same payload
 
+  <img width="956" height="366" alt="Image" src="https://github.com/user-attachments/assets/05e09039-bb7f-4995-8d90-8372e4ba8dfa" />
+<img width="997" height="400" alt="Image" src="https://github.com/user-attachments/assets/afcbc4eb-accb-4143-a824-eee8b5d6acac" />
+<img width="920" height="401" alt="Image" src="https://github.com/user-attachments/assets/0380cda1-89a8-4cec-ae9d-8b9f1f9968db" />
+
+<img width="898" height="427" alt="Image" src="https://github.com/user-attachments/assets/980b8d7a-5220-437a-8b93-fb5ccfdfffe6" />
+<img width="740" height="353" alt="Image" src="https://github.com/user-attachments/assets/c2ee0074-15af-49d7-ad39-2f5443727481" />
+<img width="880" height="427" alt="Image" src="https://github.com/user-attachments/assets/9aa7fa8f-cedb-4998-8e46-d9f4e1ae8f50" />
+<img width="847" height="409" alt="Image" src="https://github.com/user-attachments/assets/8a683db2-f2c5-4053-80b8-5cd195a9636a" />
+
 
