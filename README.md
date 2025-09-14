@@ -1,5 +1,19 @@
 # Realtime Collaborative Editor - Server
 
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME: Axita Abhaybhai Baldaniya
+
+INTERN ID:CT04DY1179
+
+DOMAIN:FULL STACK WEB DEVELOPMENT
+
+DURATION:4 WEEK
+
+MENTOR:NEELA SANTHOSHKUMAR
+
+##DESCRIOTION OF MY TASK
+
 A real-time collaborative document editor is an advanced web-based application that allows multiple users to work together on the same document simultaneously, regardless of their location. Unlike traditional text editors where a single user edits and then shares the updated version, this system ensures that all collaborators can view and contribute to the document in real time. As soon as one user makes a change, it is instantly reflected on every other user’s screen. This capability makes collaborative document editors an essential tool for teamwork, remote work, education, and professional projects.
 
 The core idea of a real-time collaborative editor lies in providing seamless synchronization between users. Technologies such as WebSockets, Socket.IO, or WebRTC enable two-way communication between clients and servers, ensuring that changes are broadcast immediately. For instance, when one user types a sentence or deletes a word, the update is captured and sent to the server, which then pushes the change to all other connected clients. This eliminates the problem of version conflicts and ensures that everyone is always working on the latest version of the document.
